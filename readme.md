@@ -29,7 +29,7 @@ ATTENTION: Node.js and MySQL/installation is required prior to use
 
 ### Contribution
 
-If you would like to contribute to this project reach out. Contact Information can be found below in [Contact Information](#contact-information)
+Please feel free to contribute to this project and reach out. Contact Information can be found below in [Contact Information](#contact-information)
 
 ### Contact-Information
 
